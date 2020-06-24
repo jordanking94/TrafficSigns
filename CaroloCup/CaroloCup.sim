@@ -1,0 +1,17 @@
+# World File 
+world ./worlds/carolo.wld
+
+object ./objects/ParkingSign/ParkingSign.esObj
+object ./objects/SpeedLimitSign/cancelspeedlimitsign.esObj
+object ./objects/SpeedLimitSign/speedlimitsign.esObj
+object ./objects/StopSign/stopsign.esObj
+
+# Robots
+S4 1694 436 180
+
+# Objects
+ParkingSign 1031 314 182
+StopSign 2334 1305 135
+StopSign 2365 1987 312
+CancelSpeedLimitSign 2136 2946 1
+SpeedLimitSign 111 1927 97

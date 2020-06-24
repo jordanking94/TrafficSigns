@@ -1,0 +1,37 @@
+
+#print c compiler flags
+python3-config --cflags
+
+#print flags that should be passed to linker
+python3-config--ldflags
+
+#from the EyeSim user manual, we know we need to read in flags
+gcc main.c - L ../lib -I ../include -leyesim -lX11 -lm -o program
+
+
+# link for eyesim library
+LINK_DIRECTORIES    (/usr/local/lib)
+
+
+
+
+# compiler flag for the location of eyesim++.h
+-I/usr/local/include
+
+# for X11
+-I/usr/X11/include 
+
+# now want to set it for a c++ compiler
+# which g++
+for me it gives
+/usr/bin/g++
+SET(CMAKE_CXX_COMPILER /usr/bin/g++)
+
+
+
+
+pkill -9 EyeBot
+
+
+
+pip3 install tensorflow
