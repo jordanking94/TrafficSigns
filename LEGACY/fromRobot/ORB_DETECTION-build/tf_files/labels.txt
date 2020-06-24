@@ -1,0 +1,5 @@
+background
+crossing
+giveway
+parking sign
+stop sign

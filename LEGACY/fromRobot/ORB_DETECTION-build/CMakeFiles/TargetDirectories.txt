@@ -1,0 +1,3 @@
+/home/pi/Documents/Jordan/ORB_DETECTION-build/CMakeFiles/rebuild_cache.dir
+/home/pi/Documents/Jordan/ORB_DETECTION-build/CMakeFiles/edit_cache.dir
+/home/pi/Documents/Jordan/ORB_DETECTION-build/CMakeFiles/detector.demo.dir
