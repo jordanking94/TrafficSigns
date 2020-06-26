@@ -7,4 +7,4 @@ in order to ensure that the TF Lite module is functional on the Raspberry Pi.
 
 Code has been written for OpenCV3 and Tensorflow 2. 
 
-I have not included the code for training that was used due to availability. I highly recommend using Keras! :)
+I highly recommend Keras for training purposes.
